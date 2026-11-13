@@ -107,5 +107,5 @@ In Week 2 of my Cybersecurity & Ethical Hacking program, I completed practical w
 My own scan found 1 live host, which differs from the 4 hosts in the guide's example, because results depend on how the network is configured. The exercises showed that a lot can be learned before any attack is attempted, and that a good report explains what was done, what was found, what it means, what risk it creates and how to reduce it. I also learned that all of this must stay within an authorised scope.
 
 8. Evidences Collected
-Screenshots are stored in the screenshots/ folder.
+Screenshots are stored in the folder.
 
