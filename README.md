@@ -88,7 +88,7 @@ Note: The actual subnet, number of hosts and addresses should be replaced with t
 
 5. Risk Analysis / Impact
 
-
+![image alt]{https://github.com/gbnanthini-57/Zenmap-Scanning-Report/blob/c5d374ff736f1ffaba4299e44e2664337a9e6258/Screenshot%202026-11-13%20183418.png}
 
 6. Recommendations
 Review publicly exposed technology information. Check what the website reveals about its CMS, plugins and versions.
